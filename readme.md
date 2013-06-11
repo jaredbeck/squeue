@@ -3,7 +3,7 @@ squeue
 
 A simple RESTful FIFO queue on sinatra on rack.
 
-```ruby
+```
 $ heroku create
 $ git push heroku master
 $ curl http://stormy-beyond-8212.herokuapp.com/q # 404
